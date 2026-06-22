@@ -28,7 +28,7 @@ Python na versão 3.13.7
 
 ## Agradecimentos:
 
-Aos professores da disciplina de PCD: professor Cassar, professor James e professor Leandro Lemos pela introdução á ciência de dados, pelos conhecimentos transmitidos em sala de aula e todos os materiais de apoio. Aos amigos Filipi Martins, Vinícius Marianno e Gustavo Colas por ideias que contribuiram para o desenvolvimento do projeto
+Aos professores da disciplina de PCD: professor Cassar, professor James e professor Leandro Lemos pela introdução à ciência de dados, pelos conhecimentos transmitidos em sala de aula e todos os materiais de apoio. Aos amigos Filipi Martins, Vinícius Marianno e Gustavo Colas por ideias que contribuíram para o desenvolvimento do projeto
 
 
 <img src="Cabeçalho_rodapé/Rodape 4.png"/>
