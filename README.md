@@ -20,7 +20,7 @@
   
   **Enigma modificada**: é a pasta que contém apenas as funções e a própria Enigima modificada
   
-  **Enigma verossímil**: é a pasta que contém apenas as funções e a própria Enigima modificada
+  **Enigma verossímil**: é a pasta que contém apenas as funções e a própria Enigima verossímil
 
 ## Tecnologias usadas:
 
